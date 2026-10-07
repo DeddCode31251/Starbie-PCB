@@ -1,6 +1,9 @@
 # Starbie-PCB
 a simple tech gadget named Starbie made for Half Life program of the hack club
 
+# Preview
+
+A tiny motion-controlled digital pet, basically a desktop Tamagotchi. Totally not a Starboy.
 
 # Screenshots
 
