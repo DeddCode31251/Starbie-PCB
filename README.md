@@ -6,7 +6,10 @@ a simple tech gadget named Starbie made for Half Life program of the hack club
 A tiny motion-controlled digital pet, basically a desktop Tamagotchi. Totally not a Starboy.
 
 # Screenshots
-
+<img width="1837" height="1018" alt="Screenshot From 2026-10-08 09-55-47" src="https://github.com/user-attachments/assets/482ef25e-da9b-4ee1-b29f-d08ee05c4080" />
+<img width="1837" height="1018" alt="Screenshot From 2026-10-08 09-55-56" src="https://github.com/user-attachments/assets/87cafb9a-d954-4558-9903-69e85b683807" />
+<img width="1837" height="1018" alt="Screenshot From 2026-10-08 09-56-04" src="https://github.com/user-attachments/assets/1f2cdf00-4ab1-420b-8da4-9760900bb513" />
+<img width="1837" height="1018" alt="Screenshot From 2026-10-08 09-56-24" src="https://github.com/user-attachments/assets/ee0df426-9b08-4aef-abc3-2ca4fce888a0" />
 <img width="1050" height="720" alt="Screenshot From 2026-10-07 19-15-16" src="https://github.com/user-attachments/assets/e6e8035e-2a44-453e-ad27-eaedccf461a4" />
 <img width="1050" height="720" alt="Screenshot From 2026-10-07 18-46-40" src="https://github.com/user-attachments/assets/26e77c10-903e-408a-b72b-991dedeea92a" />
 <img width="1050" height="720" alt="Screenshot From 2026-10-07 19-22-45" src="https://github.com/user-attachments/assets/aae85678-71fa-4717-b458-78779e08860c" />
