@@ -62,4 +62,6 @@ Form today plan:
 
 **2.32h**
 
+Work session
+
 [Timelapse](https://lookout.hackclub.com/api/media/f6df246d-9d59-4111-a80c-a3a02324d7aa/video.mp4)
