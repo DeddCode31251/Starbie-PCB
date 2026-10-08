@@ -1,0 +1,6 @@
+﻿Part,Qty,Unit Price (USD),Total (USD),Vendor,Notes
+XIAO-ESP32-C3,1,7,7,Seeed Studio,Microcontroller; specified by Starbie Week 1 guide
+OLED 128×64 I2C display,1,8,8,Adafruit,Guide specifies a 01x04 connection/pin header for the screen; exact display model is not specified
+MPU6050 module,1,unknow,unknow,DigiKey,Motion sensor module; exact vendor/model not specified
+DHT11,1,3.9500000000000002,3.9500000000000002,Adafruit,Environment sensor; exact module/package not specified
+SW_Push / tactile push button,2,0.10000000000000001,0.20000000000000001,DigiKey,Two buttons are specified by the guide
