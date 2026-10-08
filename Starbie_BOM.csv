@@ -1,5 +1,5 @@
-﻿Part,Qty,Unit Price (USD),Total (USD),Vendor,Notes
-XIAO-ESP32-C3,1,$4.90,$4.90,Seeed Studio,Microcontroller; specified by Starbie Week 1 guide
+﻿Part,Qty,Unit Price (USD),Total (USD),Vendor,Notes,Links
+XIAO-ESP32-C3,1,$4.90,$4.90,Seeed Studio,Microcontroller; specified by Starbie Week 1 guide, https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html?qid=s1h5x629_1791453377171&c_event_medium=search%3A%3Aresults_ad&c_event_id=3253059960%3A%3As1h5x629_1791453377171
 OLED 128×64 I2C display,1,$6.00,$6.00,Seeed Studio,Guide specifies a 01x04 connection/pin header for the screen; exact display model is not specified
 MPU6050 module,1,$9.76,$9.76,DigiKey,Motion sensor module; exact vendor/model not specified
 DHT11,1,$5.00,$5.00,Seeed Studio,Environment sensor; exact module/package not specified
