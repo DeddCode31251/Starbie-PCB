@@ -1,3 +1,5 @@
+
+
 # Starbie-PCB
 a simple tech gadget named Starbie made for Half Life program of the hack club
 
@@ -8,6 +10,8 @@ A tiny motion-controlled digital pet, basically a desktop Tamagotchi. Totally no
 
 # Screenshots
 
+<img width="1965" height="1070" alt="Screenshot From 2026-10-16 17-43-06" src="https://github.com/user-attachments/assets/7a5ddab1-cfd4-436c-8166-64c85997de85" />
+<img width="928" height="634" alt="Screenshot From 2026-10-16 17-42-50" src="https://github.com/user-attachments/assets/6835914d-8431-40ce-b9db-ac87ea0559f2" />
 <img width="679" height="459" alt="Screenshot From 2026-10-08 12-00-51" src="https://github.com/user-attachments/assets/6f5ab804-35c3-4a73-9a18-b476e3a4de3a" />
 <img width="908" height="636" alt="Screenshot From 2026-10-08 12-01-07" src="https://github.com/user-attachments/assets/a8a6f1f8-8a26-483f-90d1-59eb3b9395e1" />
 <img width="1837" height="1018" alt="Screenshot From 2026-10-08 09-55-47" src="https://github.com/user-attachments/assets/482ef25e-da9b-4ee1-b29f-d08ee05c4080" />
