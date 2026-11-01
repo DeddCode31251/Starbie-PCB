@@ -9,6 +9,8 @@ a simple tech gadget named Starbie made for Half Life program of the hack club
 A tiny motion-controlled digital pet, basically a desktop Tamagotchi. Totally not a Starboy.
 10h of Designing!
 
+
+
 # Screenshots
 
 <img width="1965" height="1070" alt="Screenshot From 2026-10-16 17-43-06" src="https://github.com/user-attachments/assets/7a5ddab1-cfd4-436c-8166-64c85997de85" />
